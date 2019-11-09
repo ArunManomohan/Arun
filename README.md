@@ -1,3 +1,0 @@
-# Arun
-
-Hello World
